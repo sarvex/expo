@@ -10,10 +10,19 @@
 
 - Add `expo/scripts/launchPackager.command` script for launching Expo CLI when building iOS apps for development in Xcode. ([#21397](https://github.com/expo/expo/pull/21397) by [@EvanBacon](https://github.com/EvanBacon))
 - Added internal `export:embed` command for use in Xcode and Android Studio builds. ([#21396](https://github.com/expo/expo/pull/21396) by [@EvanBacon](https://github.com/EvanBacon))
+- Export TypeScript types for `expo/metro-config`. ([#21898](https://github.com/expo/expo/pull/21898) by [@EvanBacon](https://github.com/EvanBacon))
 
 ### 🐛 Bug fixes
 
 ### 💡 Others
+
+### 📚 3rd party library updates
+
+## 48.0.10 - 2023-04-03
+
+### 📚 3rd party library updates
+
+- Update `react-native` to 0.71.6. ([#21909](https://github.com/expo/expo/pull/21909) by [@kudo](https://github.com/kudo))
 
 ## 48.0.8 - 2023-03-20
 
